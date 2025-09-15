@@ -1,11 +1,11 @@
 body{
 background-color: rgb(98, 19, 172);
-    color:blueviolet;
+    color:rgb(83, 226, 43);
     font-family: "Noto Sans Multani", sans-serif;
 {
 header}
    font-size: 50px;
-   border: double 7px blue;
+   border: double 9px red;
 }
 h1{
     font-size: 30px;
