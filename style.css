@@ -5,7 +5,11 @@ background-color: rgb(98, 19, 172);
 {
 header}
    font-size: 50px;
+   border: double 7px blue;
 }
 h1{
-    font-size: 30px
+    font-size: 30px;
+}
+p{
+  font-size: 40px;
 }
